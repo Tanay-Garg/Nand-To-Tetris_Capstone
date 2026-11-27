@@ -1,0 +1,12 @@
+# Student: Tanay Garg | Roll No.: 2501730136 | K = 36
+# Symbol Address Type
+LOOP 0 label
+PRESSED 8 label
+DRAW 10 label
+color 16 variable
+addr 17 variable
+ROW 18 label
+rows 18 variable
+cols 19 variable
+p 20 variable
+COL 26 label
